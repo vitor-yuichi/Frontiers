@@ -1,0 +1,7 @@
+,label,lower_whisker,lower_quartile,median,upper_quartile,upper_whisker
+0,Non-flood day 812A,0.0,0.0,0.0,1.0,2.0
+1,Floods day 812A,0.0,1.0,2.0,4.0,8.0
+2,Non-flood day 833A,0.0,1.0,2.0,7.0,16.0
+3,Floods day 833A,1.0,6.75,9.0,14.75,26.0
+4,Non-floods day 857A,0.0,1.0,3.0,7.0,15.0
+5,Floods day 857A,2.0,6.0,9.0,13.0,22.0
